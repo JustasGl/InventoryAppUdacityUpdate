@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="EditMargin">16dp</dimen>
+    <dimen name="TextMargin">8dp</dimen>
+    <dimen name="smallmargin">8dp</dimen>
+    <dimen name="largetext">24sp</dimen>
+    <dimen name="noitemstext">16sp</dimen>
+    <dimen name="marginFab">16dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="OrderArray">
+        <item>Time Added</item>
+        <item>Price</item>
+        <item>Quantity</item>
+    </string-array>
+</resources>

@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">InventoryApp Udacity</string>
+    <string name="add">Add</string>
+    <string name="del">Delete</string>
+    <string name="clear">Clear</string>
+    <string name="item_name">Item name</string>
+    <string name="description">Description</string>
+    <string name="in_stock">In Stock</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="supplier">Supplier</string>
+    <string name="supplier_phone_number">Supplier Phone Number</string>
+    <string name="FilIn">Please fill in the blanks</string>
+    <string name="name">Name:</string>
+    <string name="descriptionText">Description:</string>
+    <string name="Textprice">Price:</string>
+    <string name="Textquantity">Quantity:</string>
+    <string name="Textsupplier">Supplier:</string>
+    <string name="suplier_phone_numberText">Suplier Phone Number:</string>
+
+    <string name="editor_delete_pet_successful">Item deleted</string>
+
+    <!-- Toast message in editor when current pet has failed to be deleted [CHAR LIMIT=NONE] -->
+<string name="editor_delete_pet_failed">Error with deleting pet</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current pet [CHAR LIMIT=NONE] -->
+<string name="delete_dialog_msg">Delete this item?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current pet [CHAR LIMIT=20] -->
+<string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current pet [CHAR LIMIT=20] -->
+<string name="cancel">Cancel</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="checkinfo">Check your info quantity and price cannot be negative and other information have to be filled</string>
+    <string name="ok">ok</string>
+
+    <string name="no_items_yet">No items yet, click three dots at the top and click add to add items</string>
+    <string name="call">Call</string>
+    <string name="deletion_not_supported">Deletion is not supported for</string>
+    <string name="failed_to_insert_row">Failed to insert row for</string>
+    <string name="Amount_positive">Amount has to be positive number</string>
+    <string name="Price_positive">Price has to be positive</string>
+    <string name="Title_required">Item requires title</string>
+    <string name="insertion_not_supported">Insertion is not supported for</string>
+    <string name="unknown_uri">Unknown URI</string>
+    <string name="with_match">with match</string>
+    <string name="cannot_query_unknown_uri">Cannot query unknown URI</string>
+    <string name="Amount_cant_be_Less">Amount cant be less than 0</string>
+    <string name="value_cannot_be_negative">Value cannot be negative</string>
+    <string name="Title_cannot_be_empty">Title cannot be empty</string>
+    <string name="Enter_Supplier_phone_first">Enter Supplier phone first</string>
+    <string name="failed_to_upload">Failed to upload this item</string>
+    <string name="success_inserting_item">Success inserting item</string>
+    <string name="failed_updating_item">Failed to update this item</string>
+    <string name="success_updating">Succes updating item</string>
+    <string name="error_deleting_tem">Error deleting item</string>
+    <string name="item_deleted_succesfully">item deleted successfully</string>
+    <string name="Unknown_title">Unknown title</string>
+    <string name="Unknown_phone">Unknown phone</string>
+    <string name="Unknown_name">Unknown name</string>
+    <string name="Unknown_price">Unknown price</string>
+    <string name="euro">€</string>
+    <string name="Unknown_quantity">Unknown quantity</string>
+    <string name="Quantity">Quantity</string>
+    <string name="no_des">No description</string>
+    <string name="rownsDeleted">rows deleted from database</string>
+    <string name="failledTOdelete">Failed to delete</string>
+    <string name="nothingSelected">Nothing selected</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+
+    <string name="desnotempty">Description cannot be empty</string>
+    <string name="supnotempty">Supplier phone cannot be empty</string>
+    <string name="supnamenotempty">Supplier name cannot be empty</string>
+
+
+</resources>
